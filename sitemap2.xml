@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc></loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2022-10-09</lastmod>
-</url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://www.sharkvpnpanda.xyz/</loc>
+
+      <lastmod>2022-10-11</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+</urlset> 
