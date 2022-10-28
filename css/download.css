@@ -24,14 +24,14 @@ body{
 
 .download-btn{
   position: relative;
-  background: #2EE59D;
+  background: #2994e6;
   color: #fff;
-  width: 250px;
-  height: 50px;
-  padding: 9px 0;
+  width: 240px;
+  height: 45px;
+  padding: 8px 0;
   text-align: center;
   font-size: 1.2em;
-  font-weight: 200;
+  font-weight: 220;
   text-decoration: none;
   border-radius: 10px;
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ body{
 }
 
 .download-btn:hover{
-  background-color: #0693F6;
+  background-color: #299de6;
   box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
   color: #fff;
   transform: translateY(-7px);
@@ -64,5 +64,6 @@ body{
 .pleaseWait-text{
   font-size: 1em;
   font-weight: 600;
+  color: #38c23f;
   display: none;
 }
